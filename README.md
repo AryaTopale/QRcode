@@ -10,7 +10,7 @@ This project uses the command line interface to prompt users for a URL, then gen
 
 To use this QR code generator, follow these steps:
 
-1. Clone this repository: git clone https://github.com/yourusername/QRcode.git
+1. Clone this repository: git clone https://github.com/AryaTopale/QRcode.git
 2. Navigate to the project directory: 
 cd QRcode
 3. Install the required dependencies:
@@ -34,7 +34,7 @@ This project relies on the following npm packages:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/QRcode/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/AryaTopale/QRcode/issues) if you want to contribute.
 
 ## Author
 
